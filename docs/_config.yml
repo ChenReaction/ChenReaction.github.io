@@ -21,13 +21,15 @@
 title: Multiscale Computational Physics Lab
 email: chenjm@buffalo.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Multiscale Computational Physics Lab (MCPL) 
+   is led by Dr. James Chen and located in Javis Hall at University 
+   at Buffalo, State University of New York. MCPL focuses on engineering problems across multiple 
+   temporal and spatial scales, including high temperature ceramics, hypersonic physics, tribo-electrification,
+   compressible turublence, multiphase flows and many others. Come experience the Chen Reaction at MCPL.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: jikembo
+github_username:  jikembo
 
 # Build settings
 theme: minima
