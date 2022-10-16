@@ -32,7 +32,7 @@ twitter_username: jikembo
 github_username:  jikembo
 
 # Build settings
-theme: minima
+theme: page
 plugins:
   - jekyll-feed
 
