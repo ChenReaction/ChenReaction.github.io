@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Dr. Chen named ASME Fellow"
-date:   2022-10-18 11:47:29 -0400
-categories: jekyll update
 ---
 Dr. Chen was named ASME Fellow for his dedication and contributions to the mechanical engineering community. The official press release can be found at here.
 
